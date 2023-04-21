@@ -1,4 +1,7 @@
 {
-  "name": "fake_commerce",
-  "displayName": "fake_commerce"
+  "name": "code_spliting",
+  "displayName": "code_spliting",
+  "remoteChunks": [
+    "src_screens_home_Home_tsx"
+  ]
 }
